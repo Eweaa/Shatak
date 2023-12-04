@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Shatak.ServiceLayer/1.0.0": {
+        "runtime": {
+          "Shatak.ServiceLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shatak.ServiceLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shatak.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2044fe236f0675db610313d90c1bf0cb8d73fb86")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shatak.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shatak.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

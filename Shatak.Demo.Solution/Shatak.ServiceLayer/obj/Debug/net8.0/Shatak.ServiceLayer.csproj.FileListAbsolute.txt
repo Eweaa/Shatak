@@ -1,0 +1,12 @@
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.ServiceLayer\bin\Debug\net8.0\Shatak.ServiceLayer.deps.json
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.ServiceLayer\bin\Debug\net8.0\Shatak.ServiceLayer.dll
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.ServiceLayer\bin\Debug\net8.0\Shatak.ServiceLayer.pdb
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.ServiceLayer\obj\Debug\net8.0\Shatak.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.ServiceLayer\obj\Debug\net8.0\Shatak.ServiceLayer.AssemblyInfoInputs.cache
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.ServiceLayer\obj\Debug\net8.0\Shatak.ServiceLayer.AssemblyInfo.cs
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.ServiceLayer\obj\Debug\net8.0\Shatak.ServiceLayer.csproj.CoreCompileInputs.cache
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.ServiceLayer\obj\Debug\net8.0\Shatak.ServiceLayer.sourcelink.json
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.ServiceLayer\obj\Debug\net8.0\Shatak.ServiceLayer.dll
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.ServiceLayer\obj\Debug\net8.0\refint\Shatak.ServiceLayer.dll
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.ServiceLayer\obj\Debug\net8.0\Shatak.ServiceLayer.pdb
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.ServiceLayer\obj\Debug\net8.0\ref\Shatak.ServiceLayer.dll

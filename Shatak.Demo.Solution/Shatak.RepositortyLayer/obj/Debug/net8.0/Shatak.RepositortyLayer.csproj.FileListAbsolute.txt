@@ -1,0 +1,16 @@
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.RepositortyLayer\bin\Debug\net8.0\Shatak.RepositortyLayer.deps.json
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.RepositortyLayer\bin\Debug\net8.0\Shatak.RepositortyLayer.dll
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.RepositortyLayer\bin\Debug\net8.0\Shatak.RepositortyLayer.pdb
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.RepositortyLayer\bin\Debug\net8.0\Shatak.CoreLayer.dll
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.RepositortyLayer\bin\Debug\net8.0\Shatak.CoreLayer.pdb
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.RepositortyLayer\obj\Debug\net8.0\Shatak.RepositortyLayer.csproj.AssemblyReference.cache
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.RepositortyLayer\obj\Debug\net8.0\Shatak.RepositortyLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.RepositortyLayer\obj\Debug\net8.0\Shatak.RepositortyLayer.AssemblyInfoInputs.cache
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.RepositortyLayer\obj\Debug\net8.0\Shatak.RepositortyLayer.AssemblyInfo.cs
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.RepositortyLayer\obj\Debug\net8.0\Shatak.RepositortyLayer.csproj.CoreCompileInputs.cache
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.RepositortyLayer\obj\Debug\net8.0\Shatak.RepositortyLayer.sourcelink.json
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.RepositortyLayer\obj\Debug\net8.0\Shatak.RepositortyLayer.csproj.CopyComplete
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.RepositortyLayer\obj\Debug\net8.0\Shatak.RepositortyLayer.dll
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.RepositortyLayer\obj\Debug\net8.0\refint\Shatak.RepositortyLayer.dll
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.RepositortyLayer\obj\Debug\net8.0\Shatak.RepositortyLayer.pdb
+E:\Programing\Sha'tak\Shatak\Shatak.Demo.Solution\Shatak.RepositortyLayer\obj\Debug\net8.0\ref\Shatak.RepositortyLayer.dll
